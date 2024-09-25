@@ -22,6 +22,9 @@ step 6. Predict the regression for marks by using the representation of the grap
 
 step 7. Compare the graphs and hence we obtained the linear regression for the given datas.
 
+step 8. End a program.
+
+
 ## Program:
 ```
 /*
